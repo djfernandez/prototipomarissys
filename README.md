@@ -26,5 +26,5 @@ changes are pushed to the `main` branch, or when started manually from the
 Actions tab.
 
 In the repository settings, enable **Pages** and select **GitHub Actions** as
-the build and deployment source. The Vite build automatically uses the
-repository path for project sites and the root path for `*.github.io` sites.
+the build and deployment source. The production build uses relative asset paths,
+so it works for both project sites and `*.github.io` sites.
