@@ -1,0 +1,7 @@
+{
+  "name": "MARISYS Perú — Sistema de Gestión para Agencia Marítima",
+  "description": "Sistema integral de gestión para agencias marítimas en Perú: control de escalas, avisos DICAPI, manifiestos SUNAT, DAM aduanera, tracking de contenedores y liquidación de naves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
